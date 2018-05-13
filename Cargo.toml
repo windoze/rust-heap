@@ -1,6 +1,15 @@
 [package]
-name = "rust-heap"
+name = "rust_heap"
 version = "0.1.0"
-authors = ["chenxu"]
+authors = ["windoze@0d0a.com"]
+description = "Simple bounded binary heap"
+homepage = "https://github.com/windoze/rust-heap"
+repository = "https://github.com/windoze/rust-heap.git"
+readme = "README.md"
+keywords = ["binary", "heap"]
+categories  = ["algorithms", "data-structures"]
+license = "WTFPL"
+license-file = "LICENSE"
+
 
 [dependencies]
